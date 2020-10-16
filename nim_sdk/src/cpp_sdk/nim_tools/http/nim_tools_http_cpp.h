@@ -246,7 +246,7 @@ private:
 	HttpRequestHandle http_reuqest_handle_;
 };
 
-}
+}//this is the end of nothing i guess
 
 
 #endif // _NIM_TOOLS_SDK_CPP_HTTP_H_
